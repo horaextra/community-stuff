@@ -1,0 +1,7 @@
+# SmallActs Logo
+
+Cores:
+
+RGB: 3, 22, 52 => Hex: #031634 
+RGB: 3, 54, 73 => Hex: #033649 
+RGB: 3, 101, 100 => Hex: #036564 

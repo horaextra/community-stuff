@@ -1,0 +1,5 @@
+# PythonCampus Logo
+
+Font: Verdana 
+Weigth: Bold 
+Letter-spacing:  -101

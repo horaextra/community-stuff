@@ -1,4 +1,21 @@
+# Community Stuff
+
 Alguns arquivos sobre tudo relacionado à comunidade #horaextra e seus projetos.
+
+## Como contribuir?
+
+1. Crie um diretório para o seu projeto:
+
+		mkdir -p ~/community-stuff
+		cd ~/community-stuff
+
+2. Baixe o seu _fork_ para o diretório recém criado:
+
+		git clone git@github.com:[SEU_USUÁRIO]/community-stuff.git .
+
+3. Mude o que você desejar!
+
+4. Não esqueça de enviar um _pull-request_ com as atualizações.
 
 ## O time #HoraExtra
 

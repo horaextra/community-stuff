@@ -1,7 +1,7 @@
 # Community Bottons
 
 * DojoRio
-* #horaextra
+* horaextra
 * PythonCampus
 * PythonRio
 * SmallActs

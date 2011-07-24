@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1024px" height="768px" viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
-<rect x="11" y="34" fill="#F1F1F1" width="1001" height="664"/>
+<rect x="13" y="32" fill="#F1F1F1" width="1001" height="664"/>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="373.603" y1="299.5264" x2="373.603" y2="444.0073">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#D7FCFF"/>
@@ -70,11 +70,11 @@
 	<stop  offset="1" style="stop-color:#D7FCFF"/>
 </linearGradient>
 <circle fill="url(#SVGID_7_)" cx="246.158" cy="477.438" r="117.391"/>
-<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="268.5933" y1="334.9902" x2="268.5933" y2="499.5396">
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="279.5933" y1="334.9902" x2="279.5933" y2="499.5396">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#D7FCFF"/>
 </linearGradient>
-<circle fill="url(#SVGID_8_)" cx="268.593" cy="417.263" r="82.274"/>
+<circle fill="url(#SVGID_8_)" cx="279.593" cy="417.263" r="82.274"/>
 <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="345.7744" y1="434.377" x2="345.7744" y2="620.998">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="1" style="stop-color:#D7FCFF"/>
